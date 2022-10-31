@@ -16,15 +16,15 @@ include("marco-right.php");
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Stalin Francis<br>
-                Fecha: 2021-08-17 <br>
+                Posteado por:  Kevin Cedeño<br>
+                Fecha: 2022-08-30 <br>
           </div>
         </div>
     </div>
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Kevin Cedeño Cango, estudiante de ingenieria en tecnologia de la informacion y comunicacion del 7mo ciclo de la Universidad Tecnica Luis Vargas Torres de esmeraldas, mi jornada de estudio es en la tarde y veo 7 materias distintas de mi carrera. </p>
+                   <p class="eys-parrafo">Hola, soy Kevin Cedeño Cango, estudiante de ingenieria en tecnologia de la informacion y comunicacion del 7mo ciclo de la Universidad Tecnica Luis Vargas Torres de esmeraldas, mi jornada de estudio es en la tarde y veo 7 materias distintas de mi carrera. </p>
                    <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por la musica y los deportes. </p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el C++ <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo el colegio Sagrado corazon contaba con laboratorios de computadoras.</p>
 
@@ -43,8 +43,8 @@ include("marco-right.php");
     
 
 
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
+                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje C++. Hoy en dia estoy programando en neatbeans de apache con ayuda de bases de datos como mySQL.</p> 
+                   <p  class="eys-parrafo">Hoy en día estoy enfocado en la programacion orientada a objetos..</p>
    <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
